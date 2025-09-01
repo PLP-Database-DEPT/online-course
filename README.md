@@ -1,3 +1,4 @@
+
 #### Online Course System
 Online Course System is an open-source educational project designed to help learners how to manage and structure databases through a realistic and practical use case: a course management platform.
 
