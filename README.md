@@ -12,3 +12,4 @@ This challenge is designed to help learners understand and implement database de
 
 Through this project, learners will build elemental knowledge in database management, preparing them for more advanced topics in software development and database administration.
 ### ERD
+<img width="965" height="832" alt="db" src="https://github.com/user-attachments/assets/0f84a7db-156e-443b-803e-8df031fbf888" />
