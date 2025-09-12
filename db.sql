@@ -11,3 +11,15 @@ CREATE TABLE enrolment (
     FOREIGN KEY (course_id) REFERENCES course(id),
     FOREIGN KEY (student_id) REFERENCES student(id)
 );
+-- lesson tables which references module table
+
+CREATE TABLE lesson (
+    id INT PRIMARY KEY,
+    module_id INT,
+    name VARCHAR(100),
+    number INT,
+    video_url VARCHAR(500),
+    lesson_details TEXT,
+    course_order INT,
+    FOREIGN KEY (module_id) REFERENCES module(id)
+);
