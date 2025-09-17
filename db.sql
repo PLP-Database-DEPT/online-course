@@ -1,7 +1,4 @@
 
--- create database
-CREATE DATABASE course;
-USE course;
 -- -----------------------------------------------------
 -- Table: student_quiz_attempt
 -- Purpose: Stores each quiz attempt made by students,
